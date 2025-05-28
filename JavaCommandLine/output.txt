@@ -1,0 +1,11 @@
+
+Pinging google.com [142.251.12.139] with 32 bytes of data:
+Reply from 142.251.12.139: bytes=32 time=118ms TTL=103
+Reply from 142.251.12.139: bytes=32 time=111ms TTL=103
+Reply from 142.251.12.139: bytes=32 time=65ms TTL=103
+Reply from 142.251.12.139: bytes=32 time=82ms TTL=103
+
+Ping statistics for 142.251.12.139:
+    Packets: Sent = 4, Received = 4, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 65ms, Maximum = 118ms, Average = 94ms
